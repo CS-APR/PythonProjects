@@ -1,7 +1,6 @@
-# Aden Roof
+# APR
 # CSCE101 005
 # 9/19/25
-# aproof@email.sc.edu
 # Lab 5 Grade Calculator
 
 #presents the % associated with each grade

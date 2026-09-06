@@ -1,4 +1,4 @@
-# Aden Roof
+# APR
 # 005
 # 9/26/2025
 # lab 06 Turtle Spiral
@@ -32,7 +32,7 @@ for i in range(20):
     if i % 3 == 2:
         cherry.color('green')
     if i % 3 == 3:
-        chery.color('yellow')
+        cherry.color('yellow')
         
     #var updates
     i+1

@@ -1,6 +1,5 @@
-# Aden Roof
+# APR
 # 10/27/2025
-# aproof@email.sc.edu
 # 005
 # CSCE 101 Final Project
 # TIC TAC TOE

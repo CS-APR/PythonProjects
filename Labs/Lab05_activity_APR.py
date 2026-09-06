@@ -1,7 +1,6 @@
-# Aden Roof
+# APR
 # CSCE101 005
 # 9/19/25
-# aproof@email.sc.edu
 # Lab 5 if statements and prompts practice
 print('Please enter a number between 1 and 10')
 num = int(input())
